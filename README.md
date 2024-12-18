@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Introducing Myself  
+Hi there! I'm Rishitha, a passionate Data Analyst with a strong foundation in turning raw data into actionable insights. With 4+ years of experience, I thrive on uncovering hidden patterns and delivering impactful visualizations.  
 
-<!--
-**Rishithagovini/Rishithagovini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📚 Projects & Guides  
+Explore my portfolio to see real-world applications of:  
+- SQL for database management and analytics  
+- Power BI for intuitive dashboards  
+- Python for data manipulation and visualizations  
 
-Here are some ideas to get you started:
+## 💡 My Skills  
+- Data preparation, cleaning, and analysis  
+- Dashboard development and reporting  
+- Exploratory data analysis (EDA)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Tools  
+- **Databases:** MySQL, PostgreSQL, MS SQL Server  
+- **Visualization:** Power BI, Tableau  
+- **Excel:** Advanced formulas, Pivot Tables, Power Query  
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn  
+
+## 🌱 What I’m Learning  
+Currently exploring advanced statistical modeling and machine learning techniques to enhance my data storytelling skills.  
+
+## 🙌 Connect with Me  
+- **[LinkedIn](https://linkedin.com/in/your-profile)**  
+- **[GitHub](https://github.com/rishithagovini)**  
+- **[Email](mailto:rishithagovini99@gmail.com)**  
