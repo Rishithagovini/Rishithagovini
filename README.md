@@ -1,5 +1,5 @@
 # 👋 Introducing Myself  
-Hi there! I'm Rishitha, a passionate Data Analyst with a strong foundation in turning raw data into actionable insights. With 4+ years of experience, I thrive on uncovering hidden patterns and delivering impactful visualizations.  
+Hi there! I'm Rishitha, a passionate Data Analyst with a strong foundation in turning raw data into actionable insights.  Around 4 years of experience, I thrive on uncovering hidden patterns and delivering impactful visualizations.  
 
 ## 📚 Projects & Guides  
 Explore my portfolio to see real-world applications of:  
