@@ -23,5 +23,5 @@ Currently exploring advanced statistical modeling and machine learning technique
 
 ## 🙌 Connect with Me  
 - **[LinkedIn](https://www.linkedin.com/in/rishitha-g-v-917485324/)**  
-- **[GitHub](https://github.com/rishithagovini)**  
+- **[GitHub](https://github.com/Rishithagovini)**  
 - **[Email](mailto:rishithagovini99@gmail.com)**  
