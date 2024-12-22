@@ -22,6 +22,6 @@ Explore my portfolio to see real-world applications of:
 Currently exploring advanced statistical modeling and machine learning techniques to enhance my data storytelling skills.  
 
 ## 🙌 Connect with Me  
-- **[LinkedIn](https://linkedin.com/in/your-profile)**  
+- **[LinkedIn](https://www.linkedin.com/in/rishitha-g-v-917485324/)**  
 - **[GitHub](https://github.com/rishithagovini)**  
 - **[Email](mailto:rishithagovini99@gmail.com)**  
