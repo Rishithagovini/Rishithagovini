@@ -1,5 +1,5 @@
 # 👋 Introducing Myself  
-Hi there! I'm Rishitha, a passionate Data Analyst with a strong foundation in turning raw data into actionable insights. I thrive on uncovering hidden patterns and delivering impactful visualizations.  
+Hi there! I'm Rishitha, a passionate ML Engineer with a strong foundation in turning raw data into actionable insights. I thrive on uncovering hidden patterns and delivering impactful visualizations.  
 
 ## 📚 Projects & Guides  
 Explore my portfolio to see real-world applications of:  
@@ -17,9 +17,6 @@ Explore my portfolio to see real-world applications of:
 - **Visualization:** Power BI, Tableau  
 - **Excel:** Advanced formulas, Pivot Tables, Power Query  
 - **Python:** Pandas, NumPy, Matplotlib, Seaborn  
-
-## 🌱 What I’m Learning  
-Currently exploring advanced statistical modeling and machine learning techniques to enhance my data storytelling skills.  
 
 ## 🙌 Connect with Me  
 - **[LinkedIn](https://www.linkedin.com/in/grishitha/)**  
