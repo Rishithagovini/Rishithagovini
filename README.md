@@ -1,5 +1,5 @@
 # 👋 Introducing Myself  
-Hi there! I'm Rishitha, a passionate Data Analyst with a strong foundation in turning raw data into actionable insights.  Around 4 years of experience, I thrive on uncovering hidden patterns and delivering impactful visualizations.  
+Hi there! I'm Rishitha, a passionate Data Analyst with a strong foundation in turning raw data into actionable insights. I thrive on uncovering hidden patterns and delivering impactful visualizations.  
 
 ## 📚 Projects & Guides  
 Explore my portfolio to see real-world applications of:  
@@ -22,6 +22,6 @@ Explore my portfolio to see real-world applications of:
 Currently exploring advanced statistical modeling and machine learning techniques to enhance my data storytelling skills.  
 
 ## 🙌 Connect with Me  
-- **[LinkedIn](https://www.linkedin.com/in/rishitha-g-v-917485324/)**  
+- **[LinkedIn](https://www.linkedin.com/in/grishitha/)**  
 - **[GitHub](https://github.com/Rishithagovini)**  
-- **[Email](mailto:rishithagovini99@gmail.com)**  
+- **[Email](mailto:grishitha79@gmail.com)**  
